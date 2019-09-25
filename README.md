@@ -1,8 +1,8 @@
-# <div align="center">LGSVL Simulator:  An Autonomous Vehicle Simulator
+# <div align="center">LGSVL Simulator:  An Autonomous Vehicle Simulator </div>
 
-[![Github release][]][latest release] [![Release downloads][]]() 
+<div align="center"> [![Github release][]][latest release] [![Release downloads][]]() </div>
 
-#### [Website](https://lgsvlsimulator.com) | [Documentation](https://lgsvlsimulator.com/docs) | [Download](https://github.com/lgsvl/simulator/releases/latest)</div>
+#### <div align="center">[Website](https://lgsvlsimulator.com) | [Documentation](https://lgsvlsimulator.com/docs) | [Download](https://github.com/lgsvl/simulator/releases/latest)</div>
 
 ## Stay Informed
 
